@@ -1,0 +1,39 @@
+
+
+	body {
+	  text-align: center;
+	  background-image: url("https://hdwallsource.com/img/2016/6/raindrops-desktop-wallpaper-50535-52227-hd-wallpapers.jpg");
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+	.image-section {
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.section-style {
+	  margin-right: 25px;
+	  margin-left: 25px;
+	  background-color: steelblue;
+        color:white;
+	}
+
+img
+{
+    height: 350px;
+    width:550px;
+}
+
+h1
+{
+    color:steelblue;
+    font-family: cursive;
+    
+}
+h3
+{
+    color:white;
+}
